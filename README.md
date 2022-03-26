@@ -1,13 +1,17 @@
 # rsma.github
 
 Github datasets for rsma
-Description
+
+## Description
+
 This package contains 4 datasets for software defect prediction: 
 github_class_1.0 
 github_class_1.1 
 github_file_1.0 
 github_file_1.1 
-Details
+
+## Details
+
 The software metrics in these datasets have been computed from 15 Github projects in Java:
 
 Android Universal Image Loader: library for loading, caching and displaying images on Android.
