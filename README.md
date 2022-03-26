@@ -40,8 +40,10 @@ Oryx: cloud-based dental software.
 
 Titan: software for facility maintenance, environmental compliance, fuel analytics, and wetstock management.
 
-Source
+## Source
+
 http://www.inf.u-szeged.hu/~ferenc/papers/GitHubBugDataSet/.
 
-References
+## References
+
 Zoltan Toth, Peter Gyimesi, Rudolf Ferenc: A Public Bug Database of GitHub Projects and Its Application in Bug Prediction, In Computational Science and Its Applications - ICCSA 2016. Lecture Notes in Computer Science, vol 9789. Springer, Cham.
